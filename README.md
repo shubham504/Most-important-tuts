@@ -12,7 +12,7 @@ composer (php)
 npm (Node.js,JavaScrip)
 ------------------------
 ```
-  --node_modules
-  --package.json
+  -node_modules
+  -package.json
 ```
 # ----------------------
