@@ -1,3 +1,8 @@
+# Textarea
+```
+$content="";
+wp_editor( $content, "shubham-editor");
+```
 # Media upload
 ```
 <?php wp_enqueue_media(); ?>
